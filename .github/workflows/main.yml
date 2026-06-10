@@ -1,6 +1,6 @@
 name: DA
 
-on:
+on: 
   push:
     branches:
     - main
